@@ -1,5 +1,3 @@
 class Student{
-lkadfjaskfhdsjklfhf
-lkfajkfjadskfj
 
 }
